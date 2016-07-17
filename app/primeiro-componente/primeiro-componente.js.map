@@ -1,0 +1,1 @@
+{"version":3,"file":"primeiro-componente.js","sourceRoot":"","sources":["primeiro-componente.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAAyB,eAAe,CAAC,CAAA;AAOzC;IACI;IAAgB,CAAC;IANrB;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAE,MAAM,CAAC,EAAE;YACnB,QAAQ,EAAE,8BAA8B;YACxC,WAAW,EAAE,0BAA0B;SAC1C,CAAC;;0BAAA;IAGF,yBAAC;AAAD,CAAC,AAFD,IAEC;AAFY,0BAAkB,qBAE9B,CAAA"}
